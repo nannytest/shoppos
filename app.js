@@ -1,1 +1,1 @@
-console.log("asdfkgd");
+console.log("0000000000000000000");
